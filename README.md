@@ -1,8 +1,8 @@
-First Repository and code is needed to be uploaded.
+First, the Repository and code need to be uploaded.
 ...
 This repository is participating in Hacktoberfest.
 ....
 This is Compatible with Hacktoberfest 2023.
 
-Readme file of repo is not complete.
+The readme file of the repo is not complete.
 Commit.
